@@ -1,5 +1,5 @@
 Package.describe({
-    summary: "Javascript library for collecting form data"
+    summary: "Javascript library for collecting form data with jquery wrapper"
 });
 
 Package.on_use(function (api) {
