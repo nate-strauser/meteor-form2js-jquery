@@ -1,8 +1,0 @@
-{
-    "name": "form2js-jquery",
-    "description": "Javascript library for collecting form data with jquery wrapper",
-    "homepage": "https://github.com/nate-strauser/meteor-form2js-jquery",
-    "author": "Nate Strauser",
-    "version": "0.1.2",
-    "git": "https://github.com/nate-strauser/meteor-form2js-jquery.git"
-}
